@@ -2,7 +2,7 @@
 ### **Laboratorio 1 CVDS**
 ### **Información personal**
 ##### **Nombre:** _Nicolas Ariza Barbosa_
-##### **Telefono:** _4827576_
+##### **Telefono:** _4717576_
 ##### **Nacionalidad:** _Colombiano_
 ##### **Nacido en Bogota D.C**
 ##### **Carrera:** _Ingeniería de sistemas_
