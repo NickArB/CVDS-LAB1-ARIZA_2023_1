@@ -26,4 +26,5 @@ while ans != "no":
 print(":P")
 ```
 #### Ejercicios de branching
-![](CVDS-LAB1-ARIZA_2023_1/E1.png)
+![](https://github.com/NickArB/CVDS-LAB1-ARIZA_2023_1/blob/main/E1.png)
+![](https://github.com/NickArB/CVDS-LAB1-ARIZA_2023_1/blob/main/E2.png)
