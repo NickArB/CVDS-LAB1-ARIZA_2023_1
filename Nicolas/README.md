@@ -9,6 +9,7 @@
 ##### **Correo electronico** nicolas.ariza@mail.escuelaing.edu.co
 ##### **Hobbies**
 1) Jugar juegos de video
+
 ![](https://videojuegosfantasy.com/wp-content/uploads/2022/03/el-video-juego-mas-jugado.jpg.webp)
 2) Ver series
 ![](https://media.es.wired.com/photos/6327414264fe55a038bdcb1a/master/w_1600,c_limit/StrangerThings_StrangerThings4_9_01_53_00_15.jpg)
