@@ -25,3 +25,5 @@ while ans != "no":
     ans = input("Are you happy?")
 print(":P")
 ```
+#### Ejercicios de branching
+![](main/CVDS-LAB1-ARIZA_2023_1/E1.png)
